@@ -1,0 +1,20 @@
+﻿  BaseObject.cpp
+  Chicken.cpp
+c:\users\loan\desktop\repos\project6\project6\chicken.cpp(7): warning C4244: '=': conversion from 'double' to 'Sint16', possible loss of data
+c:\users\loan\desktop\repos\project6\project6\chicken.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\loan\desktop\repos\project6\project6\chicken.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\loan\desktop\repos\project6\project6\chicken.cpp(95): warning C4018: '<': signed/unsigned mismatch
+  Common_Function.cpp
+c:\users\loan\desktop\repos\project6\project6\common_function.cpp(135): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Egg.cpp
+  ExplosionObject.cpp
+  MainObject.cpp
+  main.cpp
+c:\users\loan\desktop\repos\project6\project6\main.cpp(108): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\loan\desktop\repos\project6\project6\main.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\loan\desktop\repos\project6\project6\main.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\loan\desktop\repos\project6\project6\main.cpp(245): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\loan\desktop\repos\project6\project6\main.cpp(268): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\loan\desktop\repos\project6\project6\main.cpp(269): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  Project6.vcxproj -> C:\Users\Loan\Desktop\repos\Project6\Debug\Project6.exe
